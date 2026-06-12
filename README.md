@@ -17,7 +17,7 @@ pip install gmpy2 pytest
 ## Chạy giao diện
 
 ```bash
-python hastad_ui.py
+python hastad_ui_final(1).py
 ```
 
 ## Chạy kiểm thử
